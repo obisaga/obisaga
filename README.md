@@ -1,8 +1,15 @@
  Hi, I’m Olga.
  I am a Junior Web Developer and I've just finished a Bootcamp at WBS Coding School.
  Recently I am looking for a job and I'm happy to join a friendly, motivated team to work with and continue growing as a Web Developer.
+ I'm skilled at:
+- UX/UI principles
+- HTML5 and CSS3
+- Javascript and React, React Context
+- Node.js and Express
+- MongoDB and mongoose.js
+- ElephantSQL
 
- 
+
 📫 o.bisaga@gmail.com
 
 
