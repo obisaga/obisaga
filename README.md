@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @obisaga
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ Hi, I’m Olga.
+ I am a Junior Web Developer and I've just finished a Bootcamp at WBS Coding School.
+ Recently I am looking to join a friendly, motivated team to work with and continue growing as a Web Developer.
 
-<!---
-obisaga/obisaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 
+📫 o.bisaga@gmail.com
+
+
+Here are some screenshots of my work:
+
