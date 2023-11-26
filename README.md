@@ -11,10 +11,6 @@ Here are some screenshots of my work:
 ![image](https://github.com/obisaga/ecommerceClient/assets/134201947/06f0d867-15da-4afe-95c3-b6b22ae047ef)
 ________________________________________________________________________________________________________________
 
-
-![image](https://github.com/obisaga/ecommerceClient/assets/134201947/91ecaccf-7431-4ed1-80c7-b3d9e7c67ae8)
-________________________________________________________________________________________________________________
-
 ![image](https://github.com/obisaga/ecommerceClient/assets/134201947/aa98761c-0b6b-42a6-b5a9-9f16ae2724b6)
 ________________________________________________________________________________________________________________
 
