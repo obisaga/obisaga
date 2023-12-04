@@ -14,6 +14,7 @@
 
 
 Here are some examples of my work:
+https://obisaga.github.io/theJewelleryShop/
 
 ![image](https://github.com/obisaga/ecommerceClient/assets/134201947/06f0d867-15da-4afe-95c3-b6b22ae047ef)
 ________________________________________________________________________________________________________________
