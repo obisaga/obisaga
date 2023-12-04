@@ -20,11 +20,6 @@ https://obisaga.github.io/theJewelleryShop/
 ![image](https://github.com/obisaga/ecommerceClient/assets/134201947/06f0d867-15da-4afe-95c3-b6b22ae047ef)
 ________________________________________________________________________________________________________________
 
-![image](https://github.com/obisaga/ecommerceClient/assets/134201947/aa98761c-0b6b-42a6-b5a9-9f16ae2724b6)
-________________________________________________________________________________________________________________
-
-![image](https://github.com/obisaga/ecommerceClient/assets/134201947/4c0a8465-d353-476c-8956-7d850fd10368)
-________________________________________________________________________________________________________________
 
 https://obisaga.github.io/myIPapp/
 
