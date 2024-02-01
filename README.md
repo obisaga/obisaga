@@ -7,7 +7,7 @@
 - Javascript and React, React Context
 - Node.js and Express
 - MongoDB and mongoose.js
-- ElephantSQL
+- SQL
 
 
 📫 o.bisaga@gmail.com
