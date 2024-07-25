@@ -4,9 +4,9 @@
  I'm skilled at:
 - UX/UI principles
 - HTML5 and CSS3
-- Javascript and React, React Context
+- Javascript and React
 - Node.js and Express
-- MongoDB and mongoose.js
+- MongoDB
 - SQL
 
 
