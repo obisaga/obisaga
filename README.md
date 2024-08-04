@@ -1,5 +1,5 @@
  Hi, I’m Olga.
- I am a Junior Web Developer and I've just finished a Bootcamp at WBS Coding School.
+ I am a Web Developer and I've finished a Bootcamp at WBS Coding School.
  Recently I am looking for a job and I'm happy to join a friendly, motivated team to work with and continue growing as a Web Developer.
  I'm skilled at:
 - UX/UI principles
