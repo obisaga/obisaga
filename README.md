@@ -1,13 +1,22 @@
- Hi, I’m Olga.
- I am a Web Developer and I've finished a Bootcamp at WBS Coding School.
- Recently I am looking for a job and I'm happy to join a friendly, motivated team to work with and continue growing as a Web Developer.
- I'm skilled at:
-- UX/UI principles
-- HTML5 and CSS3
-- Javascript and React
-- Node.js and Express
-- MongoDB
-- SQL
+Hello, I’m Olga!
+
+I’m a Software Developer with a WBS Coding School Bootcamp certification and I’m currently contributing to innovative projects at 4Traffic in Aachen.
+
+Here are my core skills:
+
+UX/UI principles for intuitive and user-centered design
+HTML5 and CSS3 for responsive and modern layouts
+JavaScript and React for dynamic, interactive web applications
+Node.js and Express for backend development
+MongoDB and SQL for database management
+I’m also building expertise in:
+
+Remix for seamless web transitions
+TypeScript for scalable and type-safe JavaScript
+Integrating Grafana charts into web applications for data visualization
+Looking forward to connecting!
+
+  
 
 
 📫 o.bisaga@gmail.com
