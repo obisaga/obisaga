@@ -14,6 +14,7 @@ Here are my core skills:
 
 **MongoDB** and **SQL** for database management
 
+
 I’m also building expertise in:
 
 **Remix** for seamless web transitions
