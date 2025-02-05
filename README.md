@@ -2,7 +2,7 @@ Hello, I’m Olga!
 
 I’m a **Software Developer** with a WBS Coding School Bootcamp certification and I’m currently contributing to innovative projects at 4Traffic GmbH in Aachen.
 
-Here are my core skills:
+_Here are my core skills:_
 
 
 **UX/UI** principles for intuitive and user-centered design
@@ -17,7 +17,7 @@ Here are my core skills:
 
 
 
-I’m also building expertise in:
+_I’m also building expertise in:_
 
 
 
