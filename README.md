@@ -4,6 +4,7 @@ I’m a **Software Developer** with a WBS Coding School Bootcamp certification a
 
 Here are my core skills:
 
+
 **UX/UI** principles for intuitive and user-centered design
 
 **HTML5** and **CSS3** for responsive and modern layouts
@@ -15,7 +16,10 @@ Here are my core skills:
 **MongoDB** and **SQL** for database management
 
 
+
 I’m also building expertise in:
+
+
 
 **Remix** for seamless web transitions
 
