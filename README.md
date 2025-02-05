@@ -5,17 +5,25 @@ I’m a **Software Developer** with a WBS Coding School Bootcamp certification a
 Here are my core skills:
 
 **UX/UI** principles for intuitive and user-centered design
+
 **HTML5** and **CSS3** for responsive and modern layouts
+
 **JavaScript** and **React** for dynamic, interactive web applications
+
 **Node.js** and **Express** for backend development
+
 **MongoDB** and **SQL** for database management
 
 I’m also building expertise in:
 
 **Remix** for seamless web transitions
+
 **Next.js** for hybrid rendering and performance optimization
+
 **Docker** for containerized and scalable application deployment
+
 **TypeScript** for scalable and type-safe JavaScript
+
 Integrating **Grafana** charts into web applications for data visualization
 
 Looking forward to connecting!
