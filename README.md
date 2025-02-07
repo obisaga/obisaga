@@ -3,7 +3,7 @@ Hello, I’m Olga! 😊
 I’m a **Software Developer** with a Design Studies background and a WBS Coding School Bootcamp certification. I’m currently contributing to innovative projects at 4Traffic GmbH in Aachen.
 
 
-<br><br>
+<br>
 _Here are my core skills:_
 
 
@@ -36,7 +36,7 @@ _I’m also building expertise in:_<br>
 **TypeScript** for scalable and type-safe JavaScript
 
 Integrating **Grafana** charts into web applications for data visualization
-
+<br>
 Looking forward to connecting!
 <br><br>
   
