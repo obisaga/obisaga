@@ -17,7 +17,6 @@ _Here are my core skills:_<br>
 
 **MongoDB** and **SQL** for database management
 
-
 <br><br>
 
 _I’m also building expertise in:_<br>
