@@ -1,6 +1,6 @@
-Hello, I’m Olga!
+Hello, I’m Olga! 😊
 
-I’m a **Software Developer** with a WBS Coding School Bootcamp certification and I’m currently contributing to innovative projects at 4Traffic GmbH in Aachen.
+I’m a **Software Developer** with a Design Studies background and a WBS Coding School Bootcamp certification. I’m currently contributing to innovative projects at 4Traffic GmbH in Aachen.
 
 
 <br><br>
@@ -23,7 +23,7 @@ _Here are my core skills:_
 
 <br><br>
 
-_I’m also building expertise in:_<br><br>
+_I’m also building expertise in:_<br>
 
 
 
