@@ -8,7 +8,6 @@ _Here are my core skills:_
 
 
 
-
 **UX/UI** principles for intuitive and user-centered design
 
 **HTML5** and **CSS3** for responsive and modern layouts
