@@ -52,7 +52,7 @@ Here are some examples of my work:
 ________________________________________________________________________________________________________________
 
 
-**Contact Form**
+**Contact Form**<br>
 https://obisaga.github.io/contactForm/
 
 ![image](https://github.com/obisaga/contactForm/assets/134201947/3dd32f08-03bc-4ff2-a025-a33b39dee59e)
@@ -61,14 +61,14 @@ https://obisaga.github.io/contactForm/
 ________________________________________________________________________________________________________________
 
 
-**E-Commerce Shop Project**
+**E-Commerce Shop Project**<br>
 https://obisaga.github.io/theJewelleryShop/   
 
 ![image](https://github.com/obisaga/ecommerceClient/assets/134201947/06f0d867-15da-4afe-95c3-b6b22ae047ef)
 ________________________________________________________________________________________________________________
 
 
-**IP Finder**
+**IP Finder**<br>
 https://obisaga.github.io/myIPapp/
 
 ![image](https://github.com/obisaga/myIPapp/assets/134201947/7b7d8453-f9e3-476b-b23a-087fdd5987c1)
