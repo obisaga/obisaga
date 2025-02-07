@@ -21,7 +21,7 @@ _Here are my core skills:_
 
 
 
-
+<br><br>
 
 _I’m also building expertise in:_<br><br>
 
@@ -38,12 +38,13 @@ _I’m also building expertise in:_<br><br>
 Integrating **Grafana** charts into web applications for data visualization
 
 Looking forward to connecting!
-
+<br><br>
   
 📫 **o.bisaga@gmail.com**
-
+<br><br>
 
 Here are some examples of my work:
+<br><br>
 
 **Project of my Portfolio Website** - in progress
 ![portImg](https://github.com/user-attachments/assets/f6744715-67d8-4a80-a3f2-63eca1700eb7)
