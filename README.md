@@ -1,49 +1,87 @@
-22/09/2026
+<div align="center">
+
+# Hi, I'm Olga! 
+
+###  Software Engineer · Frontend Developer · UX-minded
+
+**I build interfaces that make complex things easier to understand.**
+
+</div>
+
+<br>
+
+I'm a **full-stack software developer with a strong focus on frontend engineering and UX/UI design**. I combine **product thinking, interface design and technical knowledge** to turn ideas and requirements into intuitive, user-centered web applications.
+
+My experience includes building **reusable components, dashboards, data visualizations, GIS-based applications and AI-powered features**, as well as working with backend technologies, APIs and databases. I'm particularly interested in **frontend architecture, product architecture and planning** — understanding not only how to build a feature, but how it fits into the bigger product.
+
+<br>
+
+## Skills & Technologies
+
+| Frontend               | Backend & Data | Design & Product |
+| ---------------------- | -------------- | ---------------- |
+| React                  | Node.js        | UX/UI            |
+| TypeScript             | Express        | Figma            |
+| JavaScript             | Prisma         | Wireframing      |
+| Remix · Next.js · Vite | SQL · MongoDB · Supabase  | Prototyping      |
+| HTML · CSS             | APIs           | User Flows       |
+
+**Also experienced with:**
+GIS · GeoJSON · Data Visualization · Grafana · Docker · Git
+
+<br>
+
+## Selected Work
+
+### 4Traffic — Smart City Platform
+
+Worked on **data-driven web applications for smart-city solutions**, combining frontend development with GIS, interactive maps, dashboards and complex user roles and access requirements.
+
+**React · TypeScript · Remix · Grafana · GIS · Prisma · PostgreSQL · Replicate AI**
+
+<br>
+
+### RefresherBoxx — SaaS Management Platform
+
+Worked on a **SaaS management platform**, combining frontend development with UX/UI design.
+
+The platform supported **multiple user roles, different workflows and role-based access to data**, requiring careful planning of interfaces, navigation and information architecture.
+
+**React · TypeScript · UX/UI · Figma**
+
+<br>
+
+## Currently Learning
+
+### Python · AI · Automation
+
+Currently expanding my knowledge of **AI development and Python** through the **IBM AI Developer Professional Course**, exploring how emerging technologies can be applied to solve real-world problems and create engaging digital experiences.
+
+<br>
+
+## What I'm Interested In
+
+**Frontend Engineering · Product Architecture · UX/UI · Product Thinking · AI**
+
+<br>
+
+---
+
+<div align="center">
+
+[Email](mailto:o.bisaga@gmail.com) · [LinkedIn](https://www.linkedin.com/in/olga-bisaga/)
+<br>
+<br>
+
+</div>
 
 
-Hello, I’m Olga! 😊
-
-I’m a **Software Developer** with a Design Studies background. I’m currently contributing to innovative projects at RefresherBoxx in Aachen.
-<br><br>
-
-_Here are my core skills:_<br>
 
 
 
-**UX/UI** for intuitive and user-centered design
-
-**HTML5** and **CSS3** for responsive and modern layouts
-
-**JavaScript** and **React** for dynamic, interactive web applications
-
-**Node.js** and **Express** for backend development
-
-**MongoDB** and **SQL** for database management
-
-<br><br>
-
-_I’m also building expertise in:_<br>
-
-
-
-**Remix** for seamless web transitions
-
-**Next.js** for hybrid rendering and performance optimization
-
-**Docker** for containerized and scalable application deployment
-
-**TypeScript** for scalable and type-safe JavaScript
-
-Integrating **Grafana** charts into web applications for data visualization
-<br><br>
-Looking forward to connecting!
-<br><br>
-  
-📫 **o.bisaga@gmail.com**
-<br><br>
 
 Here are some examples of my work:
-<br><br>
+
 
 **Project of my Portfolio Website** - in progress
 ![portImg](https://github.com/user-attachments/assets/f6744715-67d8-4a80-a3f2-63eca1700eb7)
