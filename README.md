@@ -80,13 +80,40 @@ Currently expanding my knowledge of **AI development and Python** through the **
 
 
 
-Here are some examples of my work:
+## Here are some examples of my work:
 
+
+**Urban data platform** [Open page →](https://dashboard.fortrafficdev.de/)
+<br>
+<img width="1864" height="869" alt="image" src="https://github.com/user-attachments/assets/656fd208-8834-4360-a25b-86ac57e79142" />
+<img width="1908" height="882" alt="image" src="https://github.com/user-attachments/assets/27843146-1b52-4e96-a380-47ccc8d095ce" />
+<img width="1908" height="882" alt="image" src="https://github.com/user-attachments/assets/a978ea7a-3530-4508-8084-b5c20d2d9375" />
+<img width="1908" height="882" alt="image" src="https://github.com/user-attachments/assets/6156fe39-fef3-43ba-90b1-4ff1c7f58d63" />
+<img width="1908" height="882" alt="image" src="https://github.com/user-attachments/assets/7f9bd4a2-203c-4236-992f-51dd20b8559c" />
+<img width="1908" height="882" alt="image" src="https://github.com/user-attachments/assets/21e6a2e4-8823-4c9c-b44e-0578803af9f3" />
+<br>
+
+
+
+[Open page →](https://dashboard.fortrafficdev.de/)
+<br>
+
+#
+<br>
+
+**SaaS Management Platform · Shop · UX/UI** [Open page →](https://canva.link/bqwwazmvehu1odf)
+<br>
+<img width="1159" height="762" alt="image" src="https://github.com/user-attachments/assets/5f43120b-c927-44fb-84c8-0c17e66c4170" />
+
+
+[Open page →](https://canva.link/bqwwazmvehu1odf)
+
+#
 
 **Project of my Portfolio Website** - in progress
 ![portImg](https://github.com/user-attachments/assets/f6744715-67d8-4a80-a3f2-63eca1700eb7)
 
-________________________________________________________________________________________________________________
+#
 
 
 **Contact Form**<br>
@@ -95,14 +122,14 @@ https://obisaga.github.io/contactForm/
 ![image](https://github.com/obisaga/contactForm/assets/134201947/3dd32f08-03bc-4ff2-a025-a33b39dee59e)
 
 
-________________________________________________________________________________________________________________
+#
 
 
 **E-Commerce Shop Project**<br>
 https://obisaga.github.io/theJewelleryShop/   
 
 ![image](https://github.com/obisaga/ecommerceClient/assets/134201947/06f0d867-15da-4afe-95c3-b6b22ae047ef)
-________________________________________________________________________________________________________________
+#
 
 
 **IP Finder**<br>
@@ -110,7 +137,7 @@ https://obisaga.github.io/myIPapp/
 
 ![image](https://github.com/obisaga/myIPapp/assets/134201947/7b7d8453-f9e3-476b-b23a-087fdd5987c1)
 
-________________________________________________________________________________________________________________
+#
 
 
 **Other Designs**
@@ -118,6 +145,6 @@ ________________________________________________________________________________
 
 ![image](https://github.com/obisaga/dogbreedsMongo/assets/134201947/62a94253-782e-45de-b494-41cbaa9c3579)
 
-________________________________________________________________________________________________________________
+#
 
 ![image](https://github.com/obisaga/Cookbook/assets/134201947/2fd41e46-ed2f-45f6-a17f-02288fb7c891)
