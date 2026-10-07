@@ -83,27 +83,38 @@ Currently expanding my knowledge of **AI development and Python** through the **
 ## Here are some examples of my work:
 
 
-**Urban data platform** [Open page →](https://dashboard.fortrafficdev.de/)
+**Urban data platform**
 <br>
+[Open page →](https://dashboard.fortrafficdev.de/)
+<br>
+<br>
+
 <img width="1864" height="869" alt="image" src="https://github.com/user-attachments/assets/656fd208-8834-4360-a25b-86ac57e79142" />
 <img width="1908" height="882" alt="image" src="https://github.com/user-attachments/assets/27843146-1b52-4e96-a380-47ccc8d095ce" />
-<img width="1908" height="882" alt="image" src="https://github.com/user-attachments/assets/a978ea7a-3530-4508-8084-b5c20d2d9375" />
 <img width="1908" height="882" alt="image" src="https://github.com/user-attachments/assets/6156fe39-fef3-43ba-90b1-4ff1c7f58d63" />
 <img width="1908" height="882" alt="image" src="https://github.com/user-attachments/assets/7f9bd4a2-203c-4236-992f-51dd20b8559c" />
 <img width="1908" height="882" alt="image" src="https://github.com/user-attachments/assets/21e6a2e4-8823-4c9c-b44e-0578803af9f3" />
+<br>
 <br>
 
 
 
 [Open page →](https://dashboard.fortrafficdev.de/)
 <br>
+<br>
+
 
 #
 <br>
 
-**SaaS Management Platform · Shop · UX/UI** [Open page →](https://canva.link/bqwwazmvehu1odf)
+**SaaS Management Platform · Shop · UX/UI** 
 <br>
+[Open page →](https://canva.link/bqwwazmvehu1odf)
+<br><br>
+
 <img width="1159" height="762" alt="image" src="https://github.com/user-attachments/assets/5f43120b-c927-44fb-84c8-0c17e66c4170" />
+<br>
+<br>
 
 
 [Open page →](https://canva.link/bqwwazmvehu1odf)
