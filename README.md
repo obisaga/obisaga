@@ -7,8 +7,14 @@
 **I build interfaces that make complex things easier to understand.**
 
 </div>
-
 <br>
+
+<div align="center">
+
+[Email](mailto:o.bisaga@gmail.com) · [LinkedIn](https://www.linkedin.com/in/olga-bisaga/) · [GitLab](https://gitlab.com/obisaga)
+<br>
+
+</div><br>
 
 I'm a **full-stack software developer with a strong focus on frontend engineering and UX/UI design**. I combine **product thinking, interface design and technical knowledge** to turn ideas and requirements into intuitive, user-centered web applications.
 
@@ -69,7 +75,7 @@ Currently expanding my knowledge of **AI development and Python** through the **
 
 <div align="center">
 
-[Email](mailto:o.bisaga@gmail.com) · [LinkedIn](https://www.linkedin.com/in/olga-bisaga/)
+[Email](mailto:o.bisaga@gmail.com) · [LinkedIn](https://www.linkedin.com/in/olga-bisaga/) · [GitLab](https://gitlab.com/obisaga)
 <br>
 <br>
 
